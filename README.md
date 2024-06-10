@@ -9,6 +9,6 @@ showcase what i've made in that language!
 
 [Javascript](https://github.com/ShaAnder/JSDump)
 
-## Python
+[Python](https://github.com/ShaAnder/PythonDump)
 
-## C++
+[C++](https://github.com/ShaAnder/CPlusPlusDump)
